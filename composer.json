@@ -1,28 +1,32 @@
 {
-  "name": "appwrite/php-clamav",
+  "name": "afaya-it/php-clamav",
   "description": "ClamAV network and pipe client for PHP",
   "type": "library",
   "keywords": [
     "php",
     "clamav",
     "anti virus",
-    "appwrite"
+    "afaya"
   ],
   "license": "MIT",
   "authors": [
     {
       "name": "Eldad Fux",
       "email": "eldad@appwrite.io"
+    },
+    {
+      "name": "Mahmoud NJOYA",
+      "email": "mnjifejounjoya@afaya-it.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Appwrite\\ClamAV\\": "src/ClamAV"
+      "AfayaIT\\ClamAV\\": "src/ClamAV"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Appwrite\\ClamAV\\Tests\\": "tests/ClamAV"
+      "AfayaIT\\ClamAV\\Tests\\": "tests/ClamAV"
     }
   },
   "require": {

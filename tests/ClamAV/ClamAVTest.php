@@ -9,10 +9,10 @@
  * @license The MIT License (MIT) <http://www.opensource.org/licenses/mit-license.php>
  */
 
-namespace Appwrite\ClamAV\Tests;
+namespace AfayaIT\ClamAV\Tests;
 
-use Appwrite\ClamAV\Network;
-use Appwrite\ClamAV\Pipe;
+use AfayaIT\ClamAV\Network;
+use AfayaIT\ClamAV\Pipe;
 use PHPUnit\Framework\TestCase;
 
 class ClamAVTest extends TestCase

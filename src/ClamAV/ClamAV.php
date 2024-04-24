@@ -9,7 +9,7 @@
  * @license The MIT License (MIT) <http://www.opensource.org/licenses/mit-license.php>
  */
 
-namespace Appwrite\ClamAV;
+namespace AfayaIT\ClamAV;
 
 abstract class ClamAV
 {
@@ -29,7 +29,7 @@ abstract class ClamAV
      * @param string $command
      * @return string|null
      */
-    private function sendCommand(string $command): ?string
+    public function sendCommand(string $command): ?string
     {
         $return = null;
 

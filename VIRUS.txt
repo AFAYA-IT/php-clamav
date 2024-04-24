@@ -1,0 +1,5 @@
+curl -L -o /home/uploads/rally-game.rar https://github.com/hrtywhy/Malware-Library/raw/main/Bucket/Ransomeware.rar
+curl -L -o /home/uploads/good.pdf https://github.com/heptastique/infected-pdf/blob/master/malicious.pdf
+curl -L -o /home/uploads/EICAR.COM2-ZIP.zip https://www.eicar.org/download/eicar-com-2-2/?wpdmdl=8848&refresh=6627f8699156c1713895529
+curl -L -o /home/uploads/merci.txt https://www.eicar.org/download/eicar-com-2/?wpdmdl=8842&refresh=6627f8685b4ee1713895528
+curl -L -o /home/uploads/zozo.zip https://github.com/hrtywhy/Malware-Library/raw/main/Bucket/Coinminers.rar

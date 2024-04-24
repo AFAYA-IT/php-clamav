@@ -9,7 +9,7 @@
  * @license The MIT License (MIT) <http://www.opensource.org/licenses/mit-license.php>
  */
 
-namespace Appwrite\ClamAV;
+namespace AfayaIT\ClamAV;
 
 use Socket;
 use const AF_UNIX;
